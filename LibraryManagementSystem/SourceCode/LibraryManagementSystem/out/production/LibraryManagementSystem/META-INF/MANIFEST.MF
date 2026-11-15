@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: cse.librarymanagement.Application
+Class-Path: mariadb-java-client-3.5.11.jar
+
